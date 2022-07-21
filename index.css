@@ -1,0 +1,114 @@
+.signup{
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+.fname{
+    width: 200px;
+    height: 50px;
+    border-color: grey ;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.lname{
+    width: 200px;
+    height: 50px;
+    border-color: grey ;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.phone{
+    width: 420px;
+    height: 50px;
+    border-color: grey ;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.email{
+    width: 420px;
+    height: 50px;
+    border-color: grey ;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.password{
+    width: 200px;
+    height: 50px;
+    border-color: grey ;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.cpassword{
+    width: 200px;
+    height: 50px;
+    border-color: grey ;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.agree{
+    font-size: 15px;
+    position: relative;
+    right:170px;    
+}
+
+.sta{
+    margin-top: 10px;
+}
+.statement{
+    position: relative;
+    bottom: 20px;
+    left: 60px;
+}
+
+
+.Register{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+}
+.SignIn{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.reg{
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#terms{
+    color: darkcyan;
+}
+
+.statement{
+    margin-top: 10px;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
